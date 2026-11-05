@@ -7,7 +7,6 @@
 ## Main
 
 - [https://ever.co](https://ever.co) - Overview of our products & services.
-- [https://everco.notion.site](https://everco.notion.site) - Notion pages.
 
 ## Products
 
